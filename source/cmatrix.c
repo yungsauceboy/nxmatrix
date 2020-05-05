@@ -15,7 +15,7 @@ int main() {
       if(kDown & KEY_PLUS)
         break;
 
-      printf("%d", i);
+      printf("\e[33%d", i);
       i++;
       consoleUpdate(NULL);
     }
