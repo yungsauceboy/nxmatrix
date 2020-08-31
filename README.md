@@ -1,3 +1,3 @@
 # nxmatrix
 
-nxmatrix is a fork of cmatrix modified to run on the Nintendo Switch.
+nxmatrix is a reimplementation of cmatrix for the nintendo switch
